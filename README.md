@@ -11,7 +11,8 @@ nope. just the ones I've prioritized so far.
 ## how do i implement this?
 - Install the Chrome extension [Tab Modifier](https://chrome.google.com/webstore/detail/tab-modifier/hcbgadmbdkiilgpifjgcakjehmafcjai) 
 ([doc](https://github.com/sylouuu/chrome-tab-modifier))
-- Import the file tab_modifier.json
+- Download the file [settings/tab_modifier.json](https://github.com/ohmonster/vine-tabs-chrome/blob/main/settings/tab_modifier.json) to your computer
+- Use the Tab Modifier settings page in Chrome to import the file
   
 ## where are the icons from?
 
